@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# opinion-ate
+
+An app for tracking reviews of dishes at different restaurants.
+
+Production: <https://infallible-mccarthy-720d39.netlify.app/>
+
+Dependencies are locked with a `npm.lock` file, so please use `npm` and not `yarn` for installing them.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
